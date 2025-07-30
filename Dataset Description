@@ -1,0 +1,16 @@
+This dataset simulates patient records from a hospital and is structured to support analysis of treatment costs, patient outcomes, satisfaction levels, and hospital efficiency. It includes 10 key attributes:
+
+| Column Name          | Description                                                 |
+| -------------------- | ----------------------------------------------------------- |
+| **Patient\_ID**      | Unique identifier for each patient                          |
+| **Age**              | Age of the patient (in years)                               |
+| **Gender**           | Patient's gender (Male/Female)                              |
+| **Condition**        | Medical condition diagnosed (e.g., Heart Disease, Diabetes) |
+| **Procedure**        | Medical procedure performed (e.g., Angioplasty, Surgery)    |
+| **Cost**             | Total cost of treatment (in currency)                       |
+| **Length\_of\_Stay** | Number of days the patient stayed in the hospital           |
+| **Readmission**      | Whether the patient was readmitted (Yes/No)                 |
+| **Outcome**          | Final outcome of treatment (e.g., Recovered, Stable)        |
+| **Satisfaction**     | Patient satisfaction rating (scale of 1 to 5)               |
+
+This dataset is suitable for building dashboards that track treatment outcomes, cost-effectiveness, patient experience, and readmission rates across age groups and medical conditions.
